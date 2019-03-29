@@ -1,6 +1,7 @@
 <h1>Completed Udemy Tutorial - Modern React with Redux[2019]</h1><br>
+<h2>Topics Covered:</h2>
 <ul>
-  <li>Topics Covered: Building content with JSX</li>
+  <li>Building content with JSX</li>
   <li>Communicating with Props</li>
   <li>Structuring Apps with Class-Based Components</li>
   <li>State in React Components</li>
